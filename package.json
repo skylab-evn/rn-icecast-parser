@@ -1,0 +1,27 @@
+{
+  "name": "rn-icecast-parser",
+  "version": "1.0.0",
+  "description": "Package for getting icecast metadata in react-native",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@react-native-community/netinfo": "^9.3.0",
+    "react-native-webview": "^11.23.0"
+  },
+  "peerDependencies": {
+    "react": "18.0.0",
+    "react-native": "0.69.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylab-evn/rn-icecast-parser.git"
+  },
+  "author": "Hayk Abrahamyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skylab-evn/rn-icecast-parser/issues"
+  },
+  "homepage": "https://github.com/skylab-evn/rn-icecast-parser#readme"
+}
